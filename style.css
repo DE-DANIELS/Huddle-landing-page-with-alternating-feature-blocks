@@ -145,14 +145,14 @@ footer {
     box-shadow: 1px 1px 5px var(--Grayish-Blue-color);
     font-family: var(--font-family2);
     text-align: center;
-    padding: 70px 50px 0;
+    padding: 70px 25px 0;
     border-radius: 17px;
     position: absolute;
     top: -25%;
 }
 .footer-top h2 {
     color: var(--dark-Cyan-color);
-    font-size: 2.1rem;
+    font-size: 1.7rem;
     font-weight: 600;
     text-transform: capitalize;
     margin-bottom: 25px;
@@ -160,10 +160,10 @@ footer {
 .footer-top button {
     color: #fff;
     background-color: var(--pink-color);
-    font-size: 1.2rem;
+    font-size: 0.9rem;
     font-weight: 700;
     text-transform: capitalize;
-    padding: 25px 20px;
+    padding: 20px;
     width: 90%;
     border: 2px solid var(--pink-color);
     border-radius: 35px;
