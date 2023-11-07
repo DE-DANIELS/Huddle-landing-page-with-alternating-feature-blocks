@@ -140,7 +140,7 @@ footer {
 }
 .footer-top {
     background-color: #fff;
-    width: 94%;
+    width: 90%;
     height: 320px;
     box-shadow: 1px 1px 5px var(--Grayish-Blue-color);
     font-family: var(--font-family2);
