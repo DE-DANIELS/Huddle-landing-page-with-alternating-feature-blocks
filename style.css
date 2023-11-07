@@ -237,9 +237,6 @@ footer .fourth p {
 }
 /* RSPONSIVENESS */
 @media screen and (min-width: 1200px) {
-    /* body {
-        background-color: skyblue;
-    } */
     header {
         padding: 25px 35px;
     }
